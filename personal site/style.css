@@ -1,0 +1,19 @@
+
+.events > span a{color: red; margin:20px; text-align: center; background-color: rgb(105, 231, 56);
+font-size: 25px; font-weight: bold;padding: 5px;}
+.events > span a:hover{color: darkviolet ;}
+table {height: 300;text-align: center;border:1px; color:red;padding: 2px;margin:0 auto}
+
+.events {text-align: center}
+footer { text-align: center;}
+.advertisement1 {
+     width: 400px;
+     height: 300px;
+     margin:7px 450px; }
+.background { background-image: url(chart/page1.jpg) ;
+    background-position: center center;
+    height: 300px;
+    width: 400px;
+    margin: 0 auto;
+
+}
