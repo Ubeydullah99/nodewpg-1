@@ -1,4 +1,4 @@
-let First_name, Last_name, Age, Address, DateOfBirth;
+var First_name, Last_name, Age, Address, DateOfBirth;
 first_name = 'Jwan';
 Last_name = 'Ali';
 age = 40;

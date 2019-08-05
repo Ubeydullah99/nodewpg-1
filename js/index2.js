@@ -1,8 +1,8 @@
-let First_name;
-let Last_name;
-let Age;
-let Address;
-let DateOfBirth;
+var First_name;
+var Last_name;
+var Age;
+var Address;
+var DateOfBirth;
 first_name = 'Jwan';
 Last_name = 'Ali';
 age = 40;
