@@ -1,8 +1,8 @@
 let i = 0;
 let n = 100;
-let f = n;
-while (i <= n){
+let f = 100;
+do {
     console.log(f);
     f--;
     i++;
-}
+} while (i <= n);

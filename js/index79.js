@@ -1,7 +1,7 @@
 let i = 0;
 let f = 0;
-while (i <= 1000) {
+do {
 f = f + i ;
 console.log(f);
 i++;
-}
+} while (i <= 1000);

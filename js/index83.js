@@ -1,6 +1,6 @@
-let n = 14;
-let i = 1 ;
-while (i <= n) {
+let n = 1;
+let i = 14 ;
+do {
      let c = 1;
      let s = '';
      while (c <= i) {
@@ -8,5 +8,5 @@ while (i <= n) {
          c++;
      }
      console.log(s);
-     i++;
-}
+     i--;
+} while (i >= n);
