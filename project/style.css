@@ -1,9 +1,11 @@
 
-.events > span a{color: red; margin:20px; text-align: center; background-color: rgb(105, 231, 56);
-font-size: 25px; font-weight: bold;padding: 5px;}
+.events > span a{
+    color: red; margin:20px; text-align: center; background-color: rgb(105, 231, 56);
+font-size: 25px; font-weight: bold;padding: 5px;
+}
 .events > span a:hover{color: darkviolet ;}
 table {height: 300;text-align: center;border:1px; color:red;padding: 2px;margin:0 auto}
-
+.contact > span {text-align: center; margin: 10px; padding: 5px}
 .events {text-align: center}
 footer { text-align: center;}
 .advertisement1 {
