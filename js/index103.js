@@ -6,3 +6,7 @@ let evenNumbers = function() {
     }
 }
 evenNumbers();
+evenNumbers();
+evenNumbers();
+evenNumbers();
+evenNumbers();
