@@ -1,6 +1,5 @@
 let weekdayNumber = 6;
 let message = null;
-let text = null;
 switch (weekdayNumber) {
     case 1:
         message = "Today it\'s Monday";
