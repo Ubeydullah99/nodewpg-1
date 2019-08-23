@@ -5,6 +5,7 @@ for ( let i = 0; i <= 1000; i++) {
         if ((i % 2) === 0) {
             count = count + 1;
         result = result + i;
+        console.log(result);
         }
     } else {
         break;
