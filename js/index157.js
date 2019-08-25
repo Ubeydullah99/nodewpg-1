@@ -9,7 +9,7 @@ games[0] = {
     console.log(`name: ${this.name}`);
     console.log(`price: ${this.price}`);
     console.log(`sold: ${this.sold}`);
-    console.log(`consile: ${this.console}`);
+    console.log(`console: ${this.console}`);
     console.log(`===========================`);
     },
 };
@@ -22,7 +22,7 @@ games[1] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -35,7 +35,7 @@ games[2] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -48,7 +48,7 @@ games[3] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -61,7 +61,7 @@ games[4] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -74,7 +74,7 @@ games[5]= {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -87,7 +87,7 @@ games[6] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -100,7 +100,7 @@ games[7] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -113,7 +113,7 @@ games[8] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -126,7 +126,7 @@ games[9] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -139,7 +139,7 @@ games[10] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -152,7 +152,7 @@ games[11] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };
@@ -165,7 +165,7 @@ games[12] = {
         console.log(`name: ${this.name}`);
         console.log(`price: ${this.price}`);
         console.log(`sold: ${this.sold}`);
-        console.log(`consile: ${this.console}`);
+        console.log(`console: ${this.console}`);
         console.log(`===========================`);
         },
 };

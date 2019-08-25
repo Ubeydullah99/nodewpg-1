@@ -40,3 +40,4 @@ arithmetic.subtract(10,5);
 arithmetic.multiply(3,100);
 arithmetic.divide(40,2);
 arithmetic.remainder(20,2);
+arithmetic.multiply(3,'12');

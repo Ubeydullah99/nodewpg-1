@@ -1,23 +1,23 @@
 const user = {
     userName: null,
     password: null,
-    greet: function(userName) {
+    greet: function() {
         if (this.userName === null) {
             console.log('Please assign a username value');
         } else {
-            console.log(`Hello , I'm user ${this.userName}`);
+            console.log(`Hello , I'm user ${this.userName} ${this.password}`);
         };
     },
-    updaterUsername: function(userName1) {
-        if (typeof userName1 === "string") {
-            this.userName = userName1;    
+    updaterUsername: function(userName) {
+        if (typeof userName === "string") {
+            this.userName = userName;    
         } else {
             console.log('Please input a string value');
         };
     },
-    updatePassword: function(password1) {
-        if (typeof password1 === "string") {
-            this.password = password1;    
+    updatePassword: function(password) {
+        if (typeof password === "string") {
+            this.password = password;    
         } else {
             console.log('Please input a string value');
         };

@@ -80,6 +80,7 @@ games[12] = {
 };
 for (let index1 = 0; index1 <= games.length -1;index1++) {
     for (let index = 0; index <= propertiesNames.length-1; index++) {
-        console.log(games[index1][propertiesNames[index]]);
-    }
-}
+        console.log(`${propertiesNames[index]}: ${games[index1][propertiesNames[index]]}`);
+    };
+    console.log('===============');
+};

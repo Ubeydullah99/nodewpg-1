@@ -44,3 +44,7 @@ player.loseLife();
 player.recoverLife();
 player.recoverLife();
 console.log(`The ${player.name} has ${player.energy} energy  and  ${player.lives} lifes`);
+player.loseLife();
+player.loseLife();
+player.loseEnergy(75);
+player.loseEnergy(50);

@@ -177,8 +177,10 @@ for (let i = 0; i <= ps4Games.length-1; i++) {
     budget = budget + ps4Games[i].price ;
 };
 console.log(`I need ${budget} CAD to get all this PS4 great games!!`);
+console.log('===============*********************=================');
 const gameNames = [];
 const gamePrices = [];
+gameNamesAndPrice = [] ;
 for (let i = 0; i <= games.length-1; i++) {
     gameNames[i] = games[i].name;
 };
@@ -188,4 +190,17 @@ for (let i = 0; i <= games.length-1; i++) {
 for (let i = 0; i <= gameNames.length-1; i++) {
     console.log(`the game name is: ${gameNames[i]}`);
     console.log(`the game price is: ${gamePrices[i]}`);
+
+};
+console.log('===============*********************=================');
+// Or we can set names and prices in one array of objects.
+for (let i = 0; i <= games.length-1; i++) {
+    gameNamesAndPrice[i] = {} ;
+    gameNamesAndPrice[i].name = games[i].name;
+    gameNamesAndPrice[i].price = games[i].price;
+};
+for (let i = 0; i <= gameNamesAndPrice.length-1; i++) {
+    console.log(`the game name is: ${gameNamesAndPrice[i].name}`);
+    console.log(`the game price is: ${gameNamesAndPrice[i].price}`);
+
 };
